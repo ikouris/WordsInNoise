@@ -1,3 +1,3 @@
 # WordsInNoise
 
-This is an alpha release of the app.
+This is the beta release of the app.
